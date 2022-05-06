@@ -1,0 +1,54 @@
+Problema:
+Ordinare una pizza 
+Tu non hai fame?!
+Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta! Sì, ma quale? Fammi dare un occhio al listino… Va beh, è inutile, tanto alla fine ordino sempre la stessa: una classica prosciutto e funghi. La pizza arriva ancora fumante, chissà se riuscirò a mangiarla tutta!
+Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come l’ultima volta!
+--------------------------------
+Analizzare e scomporre il problema assegnato e produrne il diagramma di flusso come visto in classe. Una volta raggiunto un risultato soddisfacente caricate quindi il diagramma nella vostra repo o come immagine (PNG o JPG) o come file testo .TXT, come avete sempre fatto con i file html e css.
+
+-mi alzo
+-prendo il telefono
+    -se (è vicino)
+        -allungo il braccio
+    -altrimenti
+        -vado a prenderlo nell'altra stanza
+-lo sblocco
+-controllo il listino delle pizzeria
+    -se (voglio cambiare pizza)
+        -ordino una pizza diversa dal solito
+    -altrimenti 
+        -ordino la solita prosciutto e funghi
+-chiamo la pizzeria
+    -se (ce l'ho già registrato)
+        -chiamo
+    -altrimenti 
+        -lo creco su internet
+-saluto il pizzaiolo
+-ordino la pizza prosciutto e funghi
+-chiedo l'orario previsto di cosegna
+    -se (arriva tra mezz'ora)
+        -mi faccio una doccia
+    -altrimenti
+        mi guardo un video su YouTube
+-citofonano
+-scendo a prendere la pizza
+    -se (è gentile)
+        -gli lascio la mancia
+    -altrimenti
+        -niente mancia
+-torno su
+-apparecchio
+-mi siedo
+-apro la scatola
+-mangio la pizza
+    -se (la pizza non è tagliata)
+        -prendo il tagliapizza
+    -altrimenti 
+        -inizio a mangiare
+-finisco di mangiare 
+    -se (avanza una fetta)
+        -la metto in frigo
+    -altrimenti
+        -sparecchio
+        
+    
